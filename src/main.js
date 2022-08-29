@@ -31,7 +31,6 @@ const stats = document.querySelector(".stats");
 
 function printCharacterAZ() {
    searchName.style.display = "flex";
-   console.log(sortByAZ(data.results));
    return printCards(sortByAZ(data.results));
 }
 
