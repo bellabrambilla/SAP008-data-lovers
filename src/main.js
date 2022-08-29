@@ -31,6 +31,7 @@ const stats = document.querySelector(".stats");
 
 function printCharacterAZ() {
    searchName.style.display = "flex";
+   console.log(sortByAZ(data.results));
    return printCards(sortByAZ(data.results));
 }
 
@@ -70,7 +71,7 @@ selectSpecies.addEventListener("change", printSpeciesFiltered);
 selectStatus.addEventListener("change", printStatusFiltered);
 searchName.addEventListener("keypress", printFilterByName);
 searchName.addEventListener("keydown", event => {
-   if (eventKeyCode=== 8) {
+   if (event.KeyCode=== 8) {
      return printCards(data.results);
    }
 })
