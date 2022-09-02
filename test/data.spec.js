@@ -98,7 +98,7 @@ describe("computeStats", () => {
     expect(typeof computeStats).toBe("function");
   });
 
-  it('calcular a pocentagem de personagens "Alive"', () => {
+  it('calcular o número de personagens "Alive"', () => {
     const calcular = computeStats(characters, "status", "Alive");
     const resultado = 2;
     expect(calcular).toEqual(resultado);
