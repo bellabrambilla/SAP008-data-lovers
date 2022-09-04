@@ -1,0 +1,87 @@
+
+.home {
+    background: #ffffff;
+}
+    
+.elem-home{
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.content {
+    justify-content: center;
+}
+  
+.gif{
+    align-items: center;
+}
+    
+.text-home {
+    align-items: center;
+    position: absolute;
+}
+  
+.title-home{
+    align-items: center;
+}
+  
+.dimension{
+    align-items: center;
+}
+  
+.btn-enter {
+    justify-content: center;
+}
+  
+.container-text{
+    justify-content: center;
+}
+
+  
+logo{
+    width: 100%;
+}
+
+.menu {
+flex-direction: column; 
+}
+
+.select-gender{
+    letter-spacing: 8px;
+}
+
+.select-species{
+    letter-spacing: 8px;
+}
+
+.select-status{
+    letter-spacing: 8px;
+}
+
+.select-episode{
+    letter-spacing: 8px;
+}
+
+.searchByName{
+    letter-spacing: 5px;
+    text-align: center;
+}
+
+.stats.visible{
+    width: 95%;
+    left:0;
+}
+
+.btn{
+    justify-content: center;
+}
+
+.bodyCards {
+    padding: 0em 0em;
+    text-align: center;
+}
+
+footer{
+    width: 100%;
+    left:0;
+}
