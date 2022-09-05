@@ -12,7 +12,7 @@ Conhecer um pouco mais os personagens da série.
 
 - **Como você acredita que o produto está resolvendo os problemas do usuário?**
 
-****Disponibilizará um banco de personagens com várias informações relevantes para os fãs da série.
+A wikia disponibiliza um banco de personagens com várias informações relevantes para os fãs da série.
 
 ## 2. **Histórias do usuário**
 
@@ -35,4 +35,7 @@ Conhecer um pouco mais os personagens da série.
 - **O usuário pode ver o card dos personagens de cada episódio.**
 
 ## 3. **Interface do usuário**
+
+**Protótipo de alta fidelidade:**
+![image](https://user-images.githubusercontent.com/109175594/188368806-d32725df-2eca-4896-a37f-01ebeadad7a2.png)
 
