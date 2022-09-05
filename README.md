@@ -37,5 +37,6 @@ A wikia disponibiliza um banco de personagens com várias informações relevant
 ## 3. **Interface do usuário**
 
 **Protótipo de alta fidelidade:**
+
 ![image](https://user-images.githubusercontent.com/109175594/188368806-d32725df-2eca-4896-a37f-01ebeadad7a2.png)
 
