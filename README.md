@@ -75,5 +75,6 @@ Para verificar se as cores usadas têm bom contraste para pessoas com daltonismo
 - Deploy.
   
 ## 6. **👩🏻‍💻 Desenvolvido por**
-Andrea Santos e Isabella Brambilla
+
+<a href="https://github.com/Canzua">Andrea dos Santos</a> e Isabella Brambilla
 
