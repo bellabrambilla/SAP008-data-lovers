@@ -1,72 +1,65 @@
+body {
+  font-family: "Nunito", sans-serif;
+}
+
 .home {
   background: linear-gradient(to left, #8bcf21, #ffff);
   display: flex;
+  flex-direction: row;
 }
 
 .elem-home{
-  margin-top: 5%;
-  display: flex;
+  margin-left: 10%;
 }
 
-.gif{
-  display: flex;
+.gif {
+  margin-top: 10%;
 }
+
 
 .content {
-  display: flex;
-  flex-direction: column;
-  margin: 0 auto;
-  margin:0%;
+  justify-content: right;
+  margin: 5%;
+  margin-top: 6%;
 }
 
 .title-home{
-  font-family: 'Nunito', sans-serif;
+  font-family: 'ZCOOL QingKe HuangYou', cursive;
+  text-shadow: 0 0 0.2em #8F7;
+  color:#8bcf21;
   font-size: 60px;
-  color: #304b72;;
   padding: 0%;
   margin: 0%;
-  text-shadow:  #3D373C 0.1em 0.1em 0.2em;
-  justify-content: flex-start;
   margin-top: 4%;
 }
 
-.dimension{
-  font-family: 'Nunito', sans-serif;
-  font-size: 60px;
-  color:  #8bcf21;
-  position: relative;
-  padding: 0%;
-  margin: 0%;
-  text-shadow: #3D373C 0.1em 0.1em 0.2em;
-}
-
 .container-text {
-  font-family: 'Nunito', sans-serif;
+  font-size: 14px;
   text-align: justify;
+  margin-top: -2%;
   margin-right: 5%;
+  margin-bottom: 5%;
   color:#3D373C;
 }
 
-summary{
-  margin: 0%;
-}
-
-.btn-container{
-  font-size: 17px;
-  margin-top: 2%;
-}
-
-.enter {
-  color: #304b72;
+.btn-enter { 
+  -webkit-appearance: none;
+  padding: 1.5%;
+  text-align: center;
   font-family: "Nunito", sans-serif;
   font-size: 20px;
+  background-color:#83d2e4;
+  transition: 0.4s;
+  cursor: pointer;
+  border-radius: 30px;
   border: none;
-  margin-left: 5%;
-  margin-top: 5%;
-}
+  box-shadow: rgba(0, 0, 0, 0.15) 2.4px 2.4px 3.2px;
 
-body {
-  font-family: "Nunito", sans-serif;
+
+}
+.linkEnter{
+  text-decoration: none;
+  color:#3D373C;
 }
 
 .header{

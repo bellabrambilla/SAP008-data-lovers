@@ -1,44 +1,49 @@
 
 .home {
-    background: #ffffff;
+    display: flex;
+    background:  #ffff;
+    flex-direction: column;
 }
     
 .elem-home{
-    flex-wrap: wrap;
     justify-content: center;
+    margin: auto;
+
 }
 
-.content {
-    justify-content: center;
-}
-  
 .gif{
-    align-items: center;
+    justify-content: center;
+    width: 270px;
+    height: 270px;
+    margin-right: 1%;
+    margin-top: 10%;
 }
-    
+
+.content{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    margin-left: 10%;
+}
+
+.title-home{
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+    text-shadow: 0 0 0.4em #8F7;
+    color: #00a4bf;
+    align-items: center;
+    font-size: 30px;
+    margin-bottom: -10%;
+}
+
 .text-home {
     align-items: center;
-    position: absolute;
-}
-  
-.title-home{
-    align-items: center;
-}
-  
-.dimension{
-    align-items: center;
-}
-  
-.btn-enter {
-    justify-content: center;
 }
   
 .container-text{
     justify-content: center;
 }
 
-  
-logo{
+.logo{
     width: 100%;
 }
 
@@ -69,7 +74,8 @@ flex-direction: column;
 
 .stats.visible{
     width: 95%;
-    left:0;
+    left: 0%;
+    font-size: 11px;
 }
 
 .btn{

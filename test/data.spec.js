@@ -92,15 +92,3 @@ describe("filterName", () => {
     expect(pesquisar).toEqual([summer]);
   });
 });
-
-describe("computeStats", () => {
-  it("is a function", () => {
-    expect(typeof computeStats).toBe("function");
-  });
-
-  it('calcular o número de personagens "Alive"', () => {
-    const calcular = computeStats(characters, "status", "Alive");
-    const resultado = 2;
-    expect(calcular).toEqual(resultado);
-  });
-});

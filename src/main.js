@@ -3,7 +3,6 @@ import {
   sortByZA,
   filterData,
   filterName,
-  computeStats,
   filterEpisode,
 } from "./data.js";
 import data from "./data/rickandmorty/rickandmorty.js";
