@@ -1,5 +1,7 @@
 # Rick & Morty WIKIA 👴🛸👦
 
+Acesse o deploy <a href="https://bellabrambilla.github.io/SAP008-data-lovers/">aqui!</a> 
+
 ## 1. **Resumo do Projeto**
 
 - **Quem são os principais usuários do produto?**
