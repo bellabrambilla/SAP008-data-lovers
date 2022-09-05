@@ -86,7 +86,7 @@ body {
 select {
   -webkit-appearance: none;
   appearance: none;
-  padding: 0.3%;
+  padding: 1%;
   text-align: center;
   font-family: "Nunito", sans-serif;
   font-size: 20px;
