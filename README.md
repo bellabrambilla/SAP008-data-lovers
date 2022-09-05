@@ -16,7 +16,7 @@
 
 ***
 
-## ## 1. **Resumo do Projeto**
+## 1. **Resumo do Projeto**
 
 - **Quem são os principais usuários do produto?**
 
@@ -34,8 +34,8 @@ Conhecer um pouco mais os personagens da série.
 
 **História do usuário 1:** *"Como usuário, quero encontrar informações sobre os personagens, como temporadas e outras informações atrás dos cards".*
 
-- **O usuário pode virar o cartão para obter mais informações sobre o personagem.**
-- **O usuário pode saber as temporadas e episódios que os personagens aparecem.**
+- *O usuário pode virar o cartão para obter mais informações sobre o personagem.**
+- *O usuário pode saber as temporadas e episódios que os personagens aparecem.**
 
 **História do usuário 2:** "*Como usuário, quero pesquisar os cards dos personagens para que eu possa vê-los em ordem alfabética".*
 
