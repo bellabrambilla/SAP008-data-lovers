@@ -1,20 +1,4 @@
-# Data Lovers
-
-## Índice
-
-* [1. Preâmbulo](#1-preâmbulo)
-* [2. Resumo do projeto](#2-resumo-do-projeto)
-* [3. Objetivos de aprendizagem](#3-objetivos-de-aprendizagem)
-* [4. Considerações gerais](#4-considerações-gerais)
-* [5. Critérios mínimos de aceitação do
-  projeto](#5-critérios-mínimos-de-aceitação-do-projeto)
-* [6. Hacker edition](#6-hacker-edition)
-* [7. Considerações técnicas](#7-considerações-técnicas)
-* [8. Pistas, dicas e leituras
-  complementares](#8-pistas-dicas-e-leituras-complementares)
-* [9. Checklist](#9-checklist)
-
-***
+# Rick & Morty WIKIA 👴🛸👦
 
 ## 1. **Resumo do Projeto**
 
@@ -41,7 +25,7 @@ Conhecer um pouco mais os personagens da série.
 
 - **O usuário pode escolher se deseja ordenar os caracteres em ordem alfabética ou o contrário**
 
-**História de usuário 3: "***Como fã da série Rick and Morty, quero filtrar os personagens por aspectos como gênero, status ou espécie além de cruzar os filtros  para que eu possa ver todos os personagens que compartilham esse(s) mesmo(s) aspecto(s)"*
+**História de usuário 3: "*Como fã da série Rick and Morty, quero filtrar os personagens por aspectos como gênero, status ou espécie além de cruzar os filtros  para que eu possa ver todos os personagens que compartilham esse(s) mesmo(s) aspecto(s)"*
 
 - **O usuário pode ver a lista de cards de acordo com os critérios aplicados nos filtros**
 - **O usuário obtém informações estatísticas sobre quantos personagens compartilham as mesmas características no universo da série.**
