@@ -3,7 +3,6 @@ import {
   sortByZA,
   filterData,
   filterName,
-  computeStats,
 } from "../src/data.js";
 
 const rick = {
