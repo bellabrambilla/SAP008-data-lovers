@@ -20,21 +20,21 @@ A wikia disponibiliza um banco de personagens com várias informações relevant
 
 **História do usuário 1:** *"Como usuário, quero encontrar informações sobre os personagens, como temporadas e outras informações atrás dos cards".*
 
-- *O usuário pode virar o cartão para obter mais informações sobre o personagem.**
-- *O usuário pode saber as temporadas e episódios que os personagens aparecem.**
+- O usuário pode virar o cartão para obter mais informações sobre o personagem.
+- O usuário pode saber as temporadas e episódios que os personagens aparecem.
 
 **História do usuário 2:** "*Como usuário, quero pesquisar os cards dos personagens para que eu possa vê-los em ordem alfabética".*
 
-- **O usuário pode escolher se deseja ordenar os caracteres em ordem alfabética ou o contrário**
+- O usuário pode escolher se deseja ordenar os caracteres em ordem alfabética ou o contrário.
 
 **História de usuário 3:** "*Como fã da série Rick and Morty, quero filtrar os personagens por aspectos como gênero, status ou espécie além de cruzar os filtros  para que eu possa ver todos os personagens que compartilham esse(s) mesmo(s) aspecto(s)"*
 
-- **O usuário pode ver a lista de cards de acordo com os critérios aplicados nos filtros**
-- **O usuário obtém informações estatísticas sobre quantos personagens compartilham as mesmas características no universo da série.**
+- O usuário pode ver a lista de cards de acordo com os critérios aplicados nos filtros.
+- O usuário obtém informações estatísticas sobre quantos personagens compartilham as mesmas características no universo da série.
 
 **História do usuário 4:** "*Como usuário, quero uma entrada de pesquisa para que eu possa encontrar os personagens de acordo com o episódio".*
 
-- **O usuário pode ver o card dos personagens de cada episódio.**
+- O usuário pode ver o card dos personagens de cada episódio.
 
 ## 3. **Interface do usuário**
 
