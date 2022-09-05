@@ -15,11 +15,6 @@ export const filterName = (data, search) =>
     return character.name.toLowerCase().includes(search.toLowerCase());
   });
 
-export const computeStats = (data, typeData, condition) =>
-  data.reduce((initialType, totalType) => {
-    return initialType + (totalType[typeData] === condition);
-  }, 0);
-
 export const filterEpisode = (data, condition) => {
   return data.filter((character) => character.episode.includes(condition));
 };
