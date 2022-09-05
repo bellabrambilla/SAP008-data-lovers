@@ -27,7 +27,7 @@ A wikia disponibiliza um banco de personagens com várias informações relevant
 
 - O usuário pode escolher se deseja ordenar os caracteres em ordem alfabética ou o contrário.
 
-**História de usuário 3:** "*Como fã da série Rick and Morty, quero filtrar os personagens por aspectos como gênero, status ou espécie além de cruzar os filtros  para que eu possa ver todos os personagens que compartilham esse(s) mesmo(s) aspecto(s)"*
+**História de usuário 3:** "*Como fã da série Rick and Morty, quero filtrar os personagens por aspectos como gênero, status ou espécie além de cruzar os filtros  para que eu possa ver todos os personagens que compartilham esse(s) mesmo(s) aspecto(s)".*
 
 - O usuário pode ver a lista de cards de acordo com os critérios aplicados nos filtros.
 - O usuário obtém informações estatísticas sobre quantos personagens compartilham as mesmas características no universo da série.
