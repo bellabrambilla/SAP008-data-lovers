@@ -44,11 +44,11 @@ A paleta de cores foi baseada no desenho animado e personagens principais.
 
 Utilizamos um questionário junto a usuários para saber a melhor forma de disponibilizar as informações e decidimos usar cards para organizar os dados.
 
-[https://lh5.googleusercontent.com/E-PKwiRaDVGjcJB4o9WZXMTqx387reeqEovXUA-j6qG3SmNwEG8HlJl2qmOK1Na6ktGuKJF66U7hOCQmcFma8eQv77fC6MEEbXzvxOWEas9p5HCQ-7ojKFt2ZIi2AWHkOIPrjUinHhcL0_HNjM8Ok3Y](https://lh5.googleusercontent.com/E-PKwiRaDVGjcJB4o9WZXMTqx387reeqEovXUA-j6qG3SmNwEG8HlJl2qmOK1Na6ktGuKJF66U7hOCQmcFma8eQv77fC6MEEbXzvxOWEas9p5HCQ-7ojKFt2ZIi2AWHkOIPrjUinHhcL0_HNjM8Ok3Y)
+![image](https://user-images.githubusercontent.com/109175594/188369874-f287d6b8-464b-422a-994f-7859cf9ce3bb.png)
 
 Para verificar se as cores usadas têm bom contraste para pessoas com daltonismo, a paleta de cores foi testada usando a Ferramenta de acessibilidade da Adobe. O simulador de daltonismo mostra quais cores estão em conflito, atendendo pessoas com Deuteranopia, Protanopia e Tritanopia.
 
-[https://lh3.googleusercontent.com/g5Hl281iAq9RK-c8QHKErnv2hXHhyxRkLvbgDr3_-0HUvaGI1cDxuSnaeFKbH6omfQXbs9QHlf4Lfuwjh2kZiRmenUzzxtBIS5p8zOExZehz77qeZ1BwUqlRq2NJVDJXj1aCbuCIKx2NOYMPhLA9i5o](https://lh3.googleusercontent.com/g5Hl281iAq9RK-c8QHKErnv2hXHhyxRkLvbgDr3_-0HUvaGI1cDxuSnaeFKbH6omfQXbs9QHlf4Lfuwjh2kZiRmenUzzxtBIS5p8zOExZehz77qeZ1BwUqlRq2NJVDJXj1aCbuCIKx2NOYMPhLA9i5o)
+![image](https://user-images.githubusercontent.com/109175594/188369804-4ffee58b-5ccc-4a7e-998b-1ad6e4a95a57.png)
 
 ## 4. **Estrutura lógica**
 
@@ -74,6 +74,6 @@ Para verificar se as cores usadas têm bom contraste para pessoas com daltonismo
 - Testes unitários;
 - Deploy.
   
-##👩🏻‍💻 Desenvolvido por
+## 6. **👩🏻‍💻 Desenvolvido por**
 Andrea Santos e Isabella Brambilla
 
