@@ -40,3 +40,40 @@ A wikia disponibiliza um banco de personagens com várias informações relevant
 
 ![image](https://user-images.githubusercontent.com/109175594/188368806-d32725df-2eca-4896-a37f-01ebeadad7a2.png)
 
+A paleta de cores foi baseada no desenho animado e personagens principais.
+
+Utilizamos um questionário junto a usuários para saber a melhor forma de disponibilizar as informações e decidimos usar cards para organizar os dados.
+
+[https://lh5.googleusercontent.com/E-PKwiRaDVGjcJB4o9WZXMTqx387reeqEovXUA-j6qG3SmNwEG8HlJl2qmOK1Na6ktGuKJF66U7hOCQmcFma8eQv77fC6MEEbXzvxOWEas9p5HCQ-7ojKFt2ZIi2AWHkOIPrjUinHhcL0_HNjM8Ok3Y](https://lh5.googleusercontent.com/E-PKwiRaDVGjcJB4o9WZXMTqx387reeqEovXUA-j6qG3SmNwEG8HlJl2qmOK1Na6ktGuKJF66U7hOCQmcFma8eQv77fC6MEEbXzvxOWEas9p5HCQ-7ojKFt2ZIi2AWHkOIPrjUinHhcL0_HNjM8Ok3Y)
+
+Para verificar se as cores usadas têm bom contraste para pessoas com daltonismo, a paleta de cores foi testada usando a Ferramenta de acessibilidade da Adobe. O simulador de daltonismo mostra quais cores estão em conflito, atendendo pessoas com Deuteranopia, Protanopia e Tritanopia.
+
+[https://lh3.googleusercontent.com/g5Hl281iAq9RK-c8QHKErnv2hXHhyxRkLvbgDr3_-0HUvaGI1cDxuSnaeFKbH6omfQXbs9QHlf4Lfuwjh2kZiRmenUzzxtBIS5p8zOExZehz77qeZ1BwUqlRq2NJVDJXj1aCbuCIKx2NOYMPhLA9i5o](https://lh3.googleusercontent.com/g5Hl281iAq9RK-c8QHKErnv2hXHhyxRkLvbgDr3_-0HUvaGI1cDxuSnaeFKbH6omfQXbs9QHlf4Lfuwjh2kZiRmenUzzxtBIS5p8zOExZehz77qeZ1BwUqlRq2NJVDJXj1aCbuCIKx2NOYMPhLA9i5o)
+
+## 4. **Estrutura lógica**
+
+- Os filtros (buttons) devem apresentar na página os personagens correspondentes a cada uma das categorias.
+- Deve ser possível cruzar as características dos filtros (ex: espécie + gênero + status).
+- O filtro de episódios deve apresentar uma lista dos episódios correspondentes.
+- A partir da filtragem devem ser apresentados os personagens participantes do episódio filtrado.
+- Os personagens devem ter a possibilidade de ser apresentados em ordem alfabética de A - Z e de Z - A.
+- Na pesquisa (input) deve ser possível procurar pelo nome da personagem.
+- Os personagens são apresentados em formato de cards.
+- Os cards devem ser dinâmicos e virar quando o usuário passar o mouse em cima da figura, apresentando informações complementares atrás.
+- A responsividade do site deve se adequar proporcionalmente ao tamanho de cada mídia.
+
+## 5. **Processo do Desenvolvimento do Produto**
+
+- Levantamento de problemas;
+- Levantamento de informações e dados sobre o problema escolhido;
+- Planejamento;
+- Definição de público alvo;
+- Protótipo do projeto;
+- Criação de Logo;
+- Desenvolvimento do código;
+- Testes unitários;
+- Deploy.
+  
+##👩🏻‍💻 Desenvolvido por
+Andrea Santos e Isabella Brambilla
+
