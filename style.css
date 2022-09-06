@@ -34,7 +34,7 @@ body {
 }
 
 .container-text {
-  font-size: 14px;
+  font-size: 16px;
   text-align: justify;
   margin-top: -2%;
   margin-right: 5%;
@@ -57,7 +57,7 @@ body {
 
 
 }
-.linkEnter{
+.link-enter{
   text-decoration: none;
   color:#3D373C;
 }
@@ -124,7 +124,7 @@ select:hover {
   color: #304b72;
   text-decoration: underline;
   font-family: "Nunito", sans-serif;
-  font-size: 15px;
+  font-size: 18px;
   background-color: #ffffff;
   border: none;
   outline: none;
@@ -155,7 +155,7 @@ select:hover {
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap;
-    margin-right: 17%;
+    margin-right: 16%;
     margin-top: 5%;
 }
   
@@ -163,7 +163,7 @@ select:hover {
   color: #304b72;
   text-decoration: underline;
   font-family: "Nunito", sans-serif;
-  font-size: 15px;
+  font-size: 18px;
   background-color: #ffffff;
   border: none;
   outline: none;
