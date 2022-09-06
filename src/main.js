@@ -11,11 +11,11 @@ const originData = data.results;
 let filterResult = originData;
 
 function printCards(data) {
-  const mapa = data.map((item) => {
+  const mapping = data.map((item) => {
     const regex = /\d+/g;
     const episodes = item.episode.toString();
-    const number = episodes.match(regex);
-    const numberBackspace = number.join(", ");
+    const numberEpisode = episodes.match(regex);
+    const numberBackspace = numberEpisode.join(", ");
     return `<div class="flip-container">
      <div class="flipper">
         <div class="front">
@@ -32,7 +32,7 @@ function printCards(data) {
     </div>
 </div>`;
   });
-  document.getElementById("listening").innerHTML = mapa.join(" ");
+  document.getElementById("listening").innerHTML = mapping.join(" ");
 }
 
 printCards(originData);
